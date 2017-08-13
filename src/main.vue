@@ -12,12 +12,12 @@
 				<f7-pages>
 					<f7-page>
 						
-						<f7-block-title>Load page in panel</f7-block-title>
+						
 						<f7-list>
 							<f7-list-item link="/about/" title="About"></f7-list-item>
 							
 						</f7-list>
-						<f7-block-title>Load page in main view</f7-block-title>
+						
 						<f7-list>
 							<f7-list-item link="/items/" title="Items" link-view="#main-view" link-close-panel></f7-list-item>
 							<f7-list-item title="drop table" @click.prevent="dropDB"></f7-list-item>
@@ -30,7 +30,7 @@
 		
 		<!-- Main Views -->
 		<f7-views>
-			<f7-view id="main-view" main>
+			<f7-view id="main-view" main theme="black">
 				<!-- Pages -->
 				<f7-pages navbar-fixed >
 						
@@ -47,9 +47,10 @@
 							</f7-nav-right>
 						</f7-navbar>
 						<f7-page-content>
-							<f7-block-title v-show="dbLoaded">DB LOADED</f7-block-title>
-							<f7-button @click.prevent href="/items/" fill color="blue" big>List</f7-button>
-							<f7-button @click.prevent href="/search/" fill color="green" big>search</f7-button>
+							<f7-block>
+								<p><f7-button @click.prevent href="/items/" fill big>List</f7-button></p>
+								<p><f7-button @click.prevent href="/search/" fill  big>search</f7-button></p>
+							</f7-block>
 						</f7-page-content>
 						<f7-fab color="pink" href="/form/" @click.prevent>
 							<f7-icon icon="icon-plus"></f7-icon>

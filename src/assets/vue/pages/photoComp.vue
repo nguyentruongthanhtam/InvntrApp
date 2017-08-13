@@ -1,16 +1,16 @@
 <template>
-            <f7-list-item>
+            <f7-block>
                 <f7-grid>
                     <f7-col>
                        <img :src="uri" alt="" id="taken_photo">
-                       <f7-button big  color="red" @click="getPhoto">Get from device</f7-button>
+                       <f7-button big  color="green" icon-material="photo"  @click="getPhoto"> from device</f7-button>
                     </f7-col>
                     <f7-col>
-                       <f7-button big fill color="green" @click="takePhoto">Take Photo</f7-button>   
+                       <f7-button big fill icon-material="photo_camera" @click="takePhoto"> Take Photo</f7-button>   
                     </f7-col>
                 </f7-grid>
-                
-            </f7-list-item>
+            </f7-block>    
+            
 </template>
 
 <script>

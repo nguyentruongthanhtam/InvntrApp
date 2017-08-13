@@ -49,8 +49,8 @@
 		<f7-block >
 			<p>
 				<f7-grid>
-					<f7-col><f7-button big fill color="red" @click="clear">Clear</f7-button></f7-col>
-					<f7-col><f7-button big fill color="green" @click="checkAndSave">Save</f7-button></f7-col>
+					<f7-col><f7-button big  icon-material="clear" color="red" @click="clear"> Clear</f7-button></f7-col>
+					<f7-col><f7-button big fill icon-material="save" ripple-color="green" @click="checkAndSave"> Save</f7-button></f7-col>
 				</f7-grid>
 			</p>
 		</f7-block>
