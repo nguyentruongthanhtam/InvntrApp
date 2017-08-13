@@ -13,7 +13,7 @@
             <f7-list-item>
                 <div class="item-title label">Ma VT</div>
                 <div class="item-input">
-                    <input type="text" name="Ma VT" v-model="item.MaVT" :disabled="!isEdit">
+                    <input type="text" name="Ma VT" v-model="item.MaVT" :disabled="!isEdit" disabled>
                 </div>
             </f7-list-item>
             <!-- Password -->
@@ -140,7 +140,16 @@ export default {
 					})
 				})
 			},
-           
+           checkAndSave(){
+				if(this.item.MaVT!="" && this.item.TenVT!="" && this.item.DVT!="")
+				{
+					this.save()
+				}
+				else
+				{
+					window.alert("Please fill empty fields", "Error")
+				}
+			},
             save()
             {
 				// WORKING LOAD ENTRIES FROM DB
@@ -148,9 +157,10 @@ export default {
                 window.f7.confirm("Save this record ?", "Save", function(){
 				let db = window.sqlitePlugin.openDatabase({ name: 'my.db', location: 'default' }, function (db) {
 				db.transaction(function (tx) {
-					let query = 'UPDATE PHILLIPS SET TenVT =?, K02 = ? , K13 = ? , K17 = ? , K19 = ? , IMG = ? WHERE MaVT = ?'
+					let query = 'UPDATE PHILLIPS SET TenVT =?, DVT = ?,K02 = ? , K13 = ? , K17 = ? , K19 = ? , IMG = ? WHERE MaVT = ?'
 						tx.executeSql(query,[
                                             vm.item.TenVT,
+                                            vm.item.DVT,
                                             vm.item.K02,
                                             vm.item.K13,
                                             vm.item.K17,

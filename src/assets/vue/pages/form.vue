@@ -1,6 +1,10 @@
 <template>
 	<f7-page>
-		<f7-navbar title="Add Item" back-link="Back" sliding></f7-navbar>	
+		<f7-navbar title="Add Item" back-link="Back" sliding>
+			 <f7-nav-right>
+                <f7-link icon-material="save" @click.prevent="checkAndSave" ></f7-link>
+            </f7-nav-right>
+		</f7-navbar>	
 		<f7-block-title>Item Detail</f7-block-title>
 		<f7-list form>
 			<f7-list-item>
@@ -46,7 +50,7 @@
 			<p>
 				<f7-grid>
 					<f7-col><f7-button big fill color="red" @click="clear">Clear</f7-button></f7-col>
-					<f7-col><f7-button big fill color="green" @click="checkAndSave()">Save</f7-button></f7-col>
+					<f7-col><f7-button big fill color="green" @click="checkAndSave">Save</f7-button></f7-col>
 				</f7-grid>
 			</p>
 		</f7-block>

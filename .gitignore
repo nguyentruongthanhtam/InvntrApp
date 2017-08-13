@@ -1,0 +1,10 @@
+node_modules
+hooks
+.vscode
+plugins
+src-bk
+typings
+webpack
+www
+.editorconfig
+.npmignore
