@@ -1,0 +1,2476 @@
+[
+  {
+     "STT":1
+    ,"MaVT":"1152-2US28."
+    ,"TenVT":"Y - Ruột Khóa  âm 2 Bên Chìa-2Cylinder -1152-2Us28"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  112"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  112"
+  },
+  {
+     "STT":2
+    ,"MaVT":"1152US28."
+    ,"TenVT":"Y - Ruột Khóa Âm 1 Bên Chìa - Cylinder - 1152Us28"
+    ,"DVT":"Cai"
+    ,"K13":  6
+    ,"K02":"  27"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  33"
+  },
+  {
+     "STT":3
+    ,"MaVT":"2803SSB40."
+    ,"TenVT":"Y - Thân khóa - Mortiselock - 2803Ssb40"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  194"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  194"
+  },
+  {
+     "STT":4
+    ,"MaVT":"2803SSB60."
+    ,"TenVT":"Y - Thân khóa - Mortiselock - 2803Ssb60"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":5
+    ,"MaVT":"2804SSXB60"
+    ,"TenVT":"2804SSXB60"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":6
+    ,"MaVT":"2815A"
+    ,"TenVT":"Y - Pass treo - Face-fixing brackets packs for aluminium tract 2815A"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  12"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  12"
+  },
+  {
+     "STT":7
+    ,"MaVT":"281AX"
+    ,"TenVT":"Y - Phụ kiện cửa trượt 281AX"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  18"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  18"
+  },
+  {
+     "STT":8
+    ,"MaVT":"2852US28."
+    ,"TenVT":"Y - Khóa âm móc - HOOK BOLT LOCK- 2852US28"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  266"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  266"
+  },
+  {
+     "STT":9
+    ,"MaVT":"2870US28."
+    ,"TenVT":"Y -Ruột Khóa Âm 1 Bên Chốt -Thumb Turn- 2870Us28"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  303"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  303"
+  },
+  {
+     "STT":10
+    ,"MaVT":"28C3.45SS"
+    ,"TenVT":"Y - Thân khóa - Mortiselock - 28C3.45SS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  66"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  66"
+  },
+  {
+     "STT":11
+    ,"MaVT":"2BBBT403530SSSD"
+    ,"TenVT":"Y-bản lề- HINGE- 2BB BT 4.0x3.5x3.0 SSSD"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":12
+    ,"MaVT":"2BBBT432PVDB-CAI"
+    ,"TenVT":"Y-bản lề-HINGE-2BB BT 4.0x3.0 X 2PVDB"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":" 1 464"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":" 1 464"
+  },
+  {
+     "STT":13
+    ,"MaVT":"2BBBT433SSSD-CAI"
+    ,"TenVT":"Y-bản lề- HINGE- 2BB BT 4.0 X 3.0 X 3.0 SSSD"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":" 2 996"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":" 2 996"
+  },
+  {
+     "STT":14
+    ,"MaVT":"2BBBT5.0X3.5X30SSSD"
+    ,"TenVT":"Y-bản lề-HINGE- 2BB BT5.0X3.5X30SSSD"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":" 2 377"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":" 2 377"
+  },
+  {
+     "STT":15
+    ,"MaVT":"2BBBT533SSSD-CAI"
+    ,"TenVT":"Y-bản lề-HINGE- 2BB BT 5.0 X 3.0 X 3.0 SSSD"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":" 2 000"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":" 2 001"
+  },
+  {
+     "STT":16
+    ,"MaVT":"3801SS."
+    ,"TenVT":"Y - Mộng Khóa - Mortiselock - 3801Ss"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":17
+    ,"MaVT":"3801SSB60."
+    ,"TenVT":"Y - Thân khóa - Mortiselock - 3801Ssb60"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  12"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  13"
+  },
+  {
+     "STT":18
+    ,"MaVT":"3804SS"
+    ,"TenVT":"Y - Thân khóa 3804SS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  6"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  6"
+  },
+  {
+     "STT":19
+    ,"MaVT":"3806SSXB60"
+    ,"TenVT":"3806SSXB60"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":20
+    ,"MaVT":"3807SSXB60"
+    ,"TenVT":"3807SSXB60"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":21
+    ,"MaVT":"3808SSXB60"
+    ,"TenVT":"3808SSXB60"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":22
+    ,"MaVT":"38N3."
+    ,"TenVT":"Y - Mortise lockcase , Entran Function"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  78"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  78"
+  },
+  {
+     "STT":23
+    ,"MaVT":"38P4"
+    ,"TenVT":"Y - Thân khóa - Yale Mortice 3804SS - 38P4"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  11"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  11"
+  },
+  {
+     "STT":24
+    ,"MaVT":"38PRB"
+    ,"TenVT":"Y - Thân khóa - Mortise lock Backset 60mm - 38PRB"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":25
+    ,"MaVT":"4693"
+    ,"TenVT":"Y - Tay gạt thanh thoát hiểm 4693"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  4"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  4"
+  },
+  {
+     "STT":26
+    ,"MaVT":"4694"
+    ,"TenVT":"Y - Tay gạt thanh thoát hiểm 4694"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  4"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  4"
+  },
+  {
+     "STT":27
+    ,"MaVT":"8111US32D."
+    ,"TenVT":"Y - Khóa Cố định - BORED LOCK - 8111US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  492"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  492"
+  },
+  {
+     "STT":28
+    ,"MaVT":"8121US32D."
+    ,"TenVT":"Y - Khóa Cố định - BORED LOCK - 8121US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  13"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  13"
+  },
+  {
+     "STT":29
+    ,"MaVT":"ASPF-M370B-C0"
+    ,"TenVT":"YDM4109 FRONT PCBASS'Y + TENKEY PCB"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":30
+    ,"MaVT":"ASPM-M370B-C0"
+    ,"TenVT":"YDM4109 Main PCBass'y - AS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":31
+    ,"MaVT":"B20US26."
+    ,"TenVT":"Y - Tay gạt - Beverly Handle - B20Us26"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  111"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  112"
+  },
+  {
+     "STT":32
+    ,"MaVT":"B21US15."
+    ,"TenVT":"Y - Tay gạt - Beverly Handle - B21Us15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":33
+    ,"MaVT":"B21US26."
+    ,"TenVT":"Y - Tay gạt - Beverly Handle - B21Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  125"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  125"
+  },
+  {
+     "STT":34
+    ,"MaVT":"B21US3."
+    ,"TenVT":"Y - Tay gạt - Beverly Handle - B21Us3"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":35
+    ,"MaVT":"B22US26."
+    ,"TenVT":"Y - Tay gạt - Beverly Handle - B22Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  59"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  59"
+  },
+  {
+     "STT":36
+    ,"MaVT":"B22US3."
+    ,"TenVT":"Y - Tay gạt - Beverly Handle - B22Us3"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":37
+    ,"MaVT":"BR5127US11."
+    ,"TenVT":"Y - Khóa tay nắm - BORED LOCK - BR5127US11"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  10"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":38
+    ,"MaVT":"C7712SB."
+    ,"TenVT":"Y - Yale Surface Mounted Door Closer C7712Sb"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  567"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  567"
+  },
+  {
+     "STT":39
+    ,"MaVT":"C7722SB."
+    ,"TenVT":"Yale Surface Mounted Door Closer C7722Sb"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  263"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  263"
+  },
+  {
+     "STT":40
+    ,"MaVT":"C7732SB."
+    ,"TenVT":"Y - Yale Surface Mounted Door Closer C7732Sb"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  249"
+    ,"K17":  0
+    ,"K19":  1
+    ,"SLTon":"  250"
+  },
+  {
+     "STT":41
+    ,"MaVT":"CA5057DCUS15."
+    ,"TenVT":"Y - Khóa đại sảnh - Handleset  - NV/CA5057US15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  39"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  39"
+  },
+  {
+     "STT":42
+    ,"MaVT":"CA5122US32D-6."
+    ,"TenVT":"Y - Khóa tay nắm - BORED LOCK - CA5122US32D-60mm"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  503"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  503"
+  },
+  {
+     "STT":43
+    ,"MaVT":"CA5122US32D-9."
+    ,"TenVT":"Y - Khóa tay nắm - BORED LOCK - CA5122US32D-90mm"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  520"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  520"
+  },
+  {
+     "STT":44
+    ,"MaVT":"CA5125US32D."
+    ,"TenVT":"Y - Khóa  Tay Nắm - BORED LOCK - CA5125US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  12"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  12"
+  },
+  {
+     "STT":45
+    ,"MaVT":"CA5127US32D-6."
+    ,"TenVT":"Y - Khóa  Tay Nắm - BORED LOCK - CA5127US32D-60mm"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  987"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  987"
+  },
+  {
+     "STT":46
+    ,"MaVT":"CA5221US32D."
+    ,"TenVT":"Y - Khóa  Tay Nắm - BORED LOCK - CA5221US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  66"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  66"
+  },
+  {
+     "STT":47
+    ,"MaVT":"CA5222US32D."
+    ,"TenVT":"Y - Khóa Tay Nắm - BORED LOCK - CA5222US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":48
+    ,"MaVT":"CA5225US32D."
+    ,"TenVT":"Y - Khóa Tay Nắm - BORED LOCK - CA5225US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  36"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  36"
+  },
+  {
+     "STT":49
+    ,"MaVT":"CA5227US32D."
+    ,"TenVT":"Y - Khóa Tay Nắm - BORED LOCK - CA5227US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  931"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  931"
+  },
+  {
+     "STT":50
+    ,"MaVT":"CA5807US32D."
+    ,"TenVT":"Y- Khóa Tay Nắm - Bored Lock- CA5807US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  23"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  23"
+  },
+  {
+     "STT":51
+    ,"MaVT":"CH351-630-6S."
+    ,"TenVT":"Khóa tròn phòng Connecting CH351-630-6S"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":52
+    ,"MaVT":"CMP301P"
+    ,"TenVT":"Y - Thanh thoát hiểm dành cho cửa đơn, inox mờ CMP301P"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  23"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  24"
+  },
+  {
+     "STT":53
+    ,"MaVT":"CMP301S"
+    ,"TenVT":"Y-Phụ kiện thanh thoát hiểm - Panic Exit Device"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  118"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  118"
+  },
+  {
+     "STT":54
+    ,"MaVT":"CMP306P"
+    ,"TenVT":"Y -Thanh thoát hiểm dành cho cửa đôi, inox mờ CMP306P"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":55
+    ,"MaVT":"CMP306S"
+    ,"TenVT":"Y -Thanh thoát hiểm- Top and Bottom Rim Lock Panic device CE certificate EN1125 Fire rate- CMP306S"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":56
+    ,"MaVT":"CMPA004"
+    ,"TenVT":"Y - tay nắm thóat hiểm - CMPA004"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  179"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  179"
+  },
+  {
+     "STT":57
+    ,"MaVT":"CMPL001"
+    ,"TenVT":"Y -Chốt thanh thoát hiểm cửa đơn CMPL001"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  9"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  9"
+  },
+  {
+     "STT":58
+    ,"MaVT":"CMPL003"
+    ,"TenVT":"Y -Chốt thanh thoát hiểm cửa đôi CMPL003"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  5"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  5"
+  },
+  {
+     "STT":59
+    ,"MaVT":"CN5125US32D."
+    ,"TenVT":"Y - Khóa Tay Nắm - BORED LOCK - CN5125US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  13"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  13"
+  },
+  {
+     "STT":60
+    ,"MaVT":"D605-2L"
+    ,"TenVT":"Y - Khóa cóc chống cháy 3 giờ D605-2L"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  22"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  22"
+  },
+  {
+     "STT":61
+    ,"MaVT":"DC-A-RS15."
+    ,"TenVT":"Accessory-removable  spindle 15mm DC-A-RS15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  10"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":62
+    ,"MaVT":"DC-A-RS20."
+    ,"TenVT":"Accessory-removable  spindle 20mm DC-A-RS20"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  10"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":63
+    ,"MaVT":"DC-A-RS25."
+    ,"TenVT":"Accessory-removable  spindle 25mm DC-A-RS25"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  10"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":64
+    ,"MaVT":"DC-A-RS30."
+    ,"TenVT":"Accessory-removable  spindle 30mm DC-A-RS30"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  10"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":65
+    ,"MaVT":"DC-A-T&BISA."
+    ,"TenVT":"Acessory - Top Pivot & Bottom Arm DC-A-T & BISA"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  8"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  9"
+  },
+  {
+     "STT":66
+    ,"MaVT":"DCR-7003H"
+    ,"TenVT":"Tay đẩy hơi - DCR-7003H"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  295"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  295"
+  },
+  {
+     "STT":67
+    ,"MaVT":"DCR-8003H"
+    ,"TenVT":"Tay đẩy hơi - DCR-8003H"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  68"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  68"
+  },
+  {
+     "STT":68
+    ,"MaVT":"DL55."
+    ,"TenVT":"DL55DEAD LATCH"
+    ,"DVT":"Cai"
+    ,"K13":  7
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":69
+    ,"MaVT":"DL60"
+    ,"TenVT":"DL60 DEADLATCH- Cò khóa cửa"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  348"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  348"
+  },
+  {
+     "STT":70
+    ,"MaVT":"DL90."
+    ,"TenVT":"DL90 DEADLATCH- Cò khóa cửa đi"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  847"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  847"
+  },
+  {
+     "STT":71
+    ,"MaVT":"DS910SS"
+    ,"TenVT":"Y- Chặn cửa DS910SS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":" 1 050"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":" 1 050"
+  },
+  {
+     "STT":72
+    ,"MaVT":"DS911US15"
+    ,"TenVT":"Y - Chặn cửa tường - DS911US15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  226"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  226"
+  },
+  {
+     "STT":73
+    ,"MaVT":"EXIT DEVICE"
+    ,"TenVT":"Y - Thanh thoát hiểm Tampa Exit Device 1 Point SSS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":74
+    ,"MaVT":"F5000-S"
+    ,"TenVT":"Y - Thanh thoát hiểm đơn F5000-S"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":75
+    ,"MaVT":"F5600-S"
+    ,"TenVT":"Y - Thanh thoát hiểm đôi F5600-S"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  4"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  4"
+  },
+  {
+     "STT":76
+    ,"MaVT":"FS934-EN4"
+    ,"TenVT":"Y - Bản lề sàn - FS934-EN4"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  5"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  5"
+  },
+  {
+     "STT":77
+    ,"MaVT":"H50N"
+    ,"TenVT":"Y - Phụ kiện cửa trượt - Husky 50 - H50N"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  8"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  8"
+  },
+  {
+     "STT":78
+    ,"MaVT":"HF2/25"
+    ,"TenVT":"Y - Phụ kiện cửa trượt - Husky Folding 25 - HF2/25"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  5"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  5"
+  },
+  {
+     "STT":79
+    ,"MaVT":"HSA6400."
+    ,"TenVT":"Yale Wirefree Alarm Set Hsa6400"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  0"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":80
+    ,"MaVT":"IC1000"
+    ,"TenVT":"Y - Phụ kiện hold Open Accessory Pack - IC1000"
+    ,"DVT":"Bộ-3c"
+    ,"K13":  0
+    ,"K02":"  198"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  198"
+  },
+  {
+     "STT":81
+    ,"MaVT":"IC1030SB."
+    ,"TenVT":"Y - Bộ đóng cửa động - DOOR CLOSER - IC1030SB"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  4
+    ,"SLTon":"  5"
+  },
+  {
+     "STT":82
+    ,"MaVT":"IKE-1038-00"
+    ,"TenVT":"BLANK KEY 8pins type (E-MECHA)"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  32"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  32"
+  },
+  {
+     "STT":83
+    ,"MaVT":"IKE-1063A-00"
+    ,"TenVT":"BDA CYLINDER KEYASSY (A-B KEY) - 8pins"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  12"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  12"
+  },
+  {
+     "STT":84
+    ,"MaVT":"L010US32D."
+    ,"TenVT":"Y - BL Cửa Kiếng - GLASS FITTING - L010US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":85
+    ,"MaVT":"L2800XX-MA MOI"
+    ,"TenVT":"Y - Khóa L2800XX-MA MOI"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  657"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  657"
+  },
+  {
+     "STT":86
+    ,"MaVT":"L2800YYS1"
+    ,"TenVT":"Y - Khóa L2800YYS1"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  56"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  56"
+  },
+  {
+     "STT":87
+    ,"MaVT":"L5311US15."
+    ,"TenVT":"Y - Khóa tròn gạt - BORED LOCK - L5311US15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  89"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  89"
+  },
+  {
+     "STT":88
+    ,"MaVT":"L5311US5."
+    ,"TenVT":"Y - Khóa tròn gạt - BORED LOCK - L5311US5"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":89
+    ,"MaVT":"L5312US3."
+    ,"TenVT":"Y - Khóa tròn gạt - BORED LOCK - L5312US3"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":90
+    ,"MaVT":"L5321US5."
+    ,"TenVT":"Y - Khóa tròn gạt - BORED LOCK - L5321US5"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  17"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  17"
+  },
+  {
+     "STT":91
+    ,"MaVT":"L5351US15."
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L5351Us15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":92
+    ,"MaVT":"L5351US5."
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L5351Us5"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  16"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  16"
+  },
+  {
+     "STT":93
+    ,"MaVT":"L5367US11."
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L5367Us11"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  0"
+    ,"K17":  3
+    ,"K19":  0
+    ,"SLTon":"  4"
+  },
+  {
+     "STT":94
+    ,"MaVT":"L5367US15."
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L5367Us15"
+    ,"DVT":"Cai"
+    ,"K13":  4
+    ,"K02":"  0"
+    ,"K17":  8
+    ,"K19":  0
+    ,"SLTon":"  12"
+  },
+  {
+     "STT":95
+    ,"MaVT":"L6212US15"
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L6212US15"
+    ,"DVT":"Cai"
+    ,"K13":  3
+    ,"K02":"  131"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  134"
+  },
+  {
+     "STT":96
+    ,"MaVT":"L6217US15"
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L6217US15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  86"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  86"
+  },
+  {
+     "STT":97
+    ,"MaVT":"L6217US3."
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L6217Us3"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  0"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":98
+    ,"MaVT":"L6222US15"
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L6222us15"
+    ,"DVT":"Cai"
+    ,"K13":  3
+    ,"K02":"  4"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  7"
+  },
+  {
+     "STT":99
+    ,"MaVT":"L6262US15"
+    ,"TenVT":"Y - Khóa tròn gạt - Bored Lock - L6262US15"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  0"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":100
+    ,"MaVT":"L8327US15"
+    ,"TenVT":"Y - Khóa tròn gạt - BORED LOCK - L8327US15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  7"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  7"
+  },
+  {
+     "STT":101
+    ,"MaVT":"LWP020SSS."
+    ,"TenVT":"LWP020 SSSPATCH FITTINGS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":102
+    ,"MaVT":"LWP030SSS."
+    ,"TenVT":"LWP030 SSS PATCH FITTINGS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":103
+    ,"MaVT":"M1400OR73."
+    ,"TenVT":"Y - Khóa tay gạt - MORTISELOCK - M1400OR73"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  0"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":104
+    ,"MaVT":"M1400OR91."
+    ,"TenVT":"Y - Khóa tay gạt - MORTISELOCK - M1400OR91"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  0"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":105
+    ,"MaVT":"M1400SR63."
+    ,"TenVT":"Y - Khóa tay gạt - MORTISELOCK - M140OSR63"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  0"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":106
+    ,"MaVT":"M1400UR91."
+    ,"TenVT":"Y - Khóa tay gạt - MORTISELOCK - M140OUR91"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  0"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":107
+    ,"MaVT":"M2814XXS1-TAY"
+    ,"TenVT":"Y - Khóa tay gạt - MORTISELOCK - M2814XXS1-TAY (Ma cua Sales)"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  5"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  5"
+  },
+  {
+     "STT":108
+    ,"MaVT":"M38D0DDPVD."
+    ,"TenVT":"Y - Khóa tay gạt - MORTISELOCK - M38D0DDVP"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":109
+    ,"MaVT":"M38D0FAC1."
+    ,"TenVT":"Y - Khóa tay gạt - MORTISELOCK - M38D0FAC1"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  0"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":110
+    ,"MaVT":"M38DAABE6."
+    ,"TenVT":"Y - Khóa tay gạt - MORTISELOCK - M38DAABE6"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  0"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":111
+    ,"MaVT":"M8773D3CP"
+    ,"TenVT":"Y - K đại sảnh - ENTRANCE HANDLESET - M8773D3CP"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":112
+    ,"MaVT":"MANIJA MODULAR"
+    ,"TenVT":"Y - Tay gạt Yale Trim witth Cylinder - Manija Modular Eiffel CS "
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":113
+    ,"MaVT":"MK1"
+    ,"TenVT":"Y- Chìa chủ Masterkey MK1"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":114
+    ,"MaVT":"MK2"
+    ,"TenVT":"Y- Chìa chủ Masterkey MK2"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":115
+    ,"MaVT":"MK3"
+    ,"TenVT":"Y- Chìa chủ Masterkey MK3"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":116
+    ,"MaVT":"MK4"
+    ,"TenVT":"Y- Chìa chủ Masterkey MK4"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":117
+    ,"MaVT":"P010PSS"
+    ,"TenVT":"Y - Kẹp kính - P010PSS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":118
+    ,"MaVT":"P020PSS"
+    ,"TenVT":"Y - Kẹp kính - P020PSS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":119
+    ,"MaVT":"P030PSS"
+    ,"TenVT":"Y - Kẹp kính - P030PSS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  15"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  15"
+  },
+  {
+     "STT":120
+    ,"MaVT":"P030US32D."
+    ,"TenVT":"Y - BL cửa kính - GLASS FITTING - P030US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  14"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  14"
+  },
+  {
+     "STT":121
+    ,"MaVT":"P040PSS"
+    ,"TenVT":"Y - Kẹp kính - P040PSS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  12"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  12"
+  },
+  {
+     "STT":122
+    ,"MaVT":"P040US32D."
+    ,"TenVT":"Y - BL cửa kính - GLASS FITTING - P040US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  9"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  9"
+  },
+  {
+     "STT":123
+    ,"MaVT":"P060PSS"
+    ,"TenVT":"Y - Kẹp kính - P060PSS"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  15"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  15"
+  },
+  {
+     "STT":124
+    ,"MaVT":"P060US32D."
+    ,"TenVT":"Y - BL cửa kính - GLASS FITTING - P060US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  17"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  17"
+  },
+  {
+     "STT":125
+    ,"MaVT":"PH001SSW/R"
+    ,"TenVT":"Y - Tay nắm cửa - Hollow pull handle - PH001SSW/R"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  312"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  312"
+  },
+  {
+     "STT":126
+    ,"MaVT":"PHOICHIA."
+    ,"TenVT":"Y - Phôi Chìa Khóa"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":" 2 995"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":" 2 995"
+  },
+  {
+     "STT":127
+    ,"MaVT":"PHUKIENYIC."
+    ,"TenVT":"Y- Phụ Kiện YIC1003"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  74"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  74"
+  },
+  {
+     "STT":128
+    ,"MaVT":"PL60"
+    ,"TenVT":"PL60 PLAINLATCH- Cò khóa cửa WC"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":129
+    ,"MaVT":"PL90."
+    ,"TenVT":"PL90 PLAINLATCH- Cò khóa cửa WC"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  417"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  417"
+  },
+  {
+     "STT":130
+    ,"MaVT":"PZ001"
+    ,"TenVT":"Y - Chốt bi PZ-001"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":131
+    ,"MaVT":"SIM100"
+    ,"TenVT":"Y - Phụ kiện cửa trượt - Simultaneous action kit for bi-parting - SIM100"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":132
+    ,"MaVT":"SSH503530"
+    ,"TenVT":"Bản lề SSH503530"
+    ,"DVT":"Cai"
+    ,"K13":  2
+    ,"K02":"  213"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  215"
+  },
+  {
+     "STT":133
+    ,"MaVT":"TOPPIVOT884-20"
+    ,"TenVT":"Top Pivot Kit"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":134
+    ,"MaVT":"V0401AUS15 "
+    ,"TenVT":"Y-Mắt thần 180 độ - V0401AUS15 "
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  115"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  115"
+  },
+  {
+     "STT":135
+    ,"MaVT":"V0403GUS15"
+    ,"TenVT":"Y - Mắt thần - V0403GUS15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  10"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":136
+    ,"MaVT":"V0403US15"
+    ,"TenVT":"Y - Mắt Thần - Accessories - V0403US15"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  542"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  542"
+  },
+  {
+     "STT":137
+    ,"MaVT":"V18LUS26D"
+    ,"TenVT":"Y-Chốt an toàn dạng gài - V18LUS26D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  622"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  622"
+  },
+  {
+     "STT":138
+    ,"MaVT":"VO-CMP301P"
+    ,"TenVT":"Y - Vỏ -Thanh thoát hiểm dành cho cửa đơn, inox mờ VO-CMP301P"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  7"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  7"
+  },
+  {
+     "STT":139
+    ,"MaVT":"Y114/90"
+    ,"TenVT":"Y - Khóa TREO - PADLOCKS - Y114/90"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  279"
+    ,"K17":  0
+    ,"K19":  3
+    ,"SLTon":"  282"
+  },
+  {
+     "STT":140
+    ,"MaVT":"Y120/70/141/1."
+    ,"TenVT":"Y - Khóa TREO - PADLOCKS - Y120/70/141/1"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  39"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  39"
+  },
+  {
+     "STT":141
+    ,"MaVT":"Y2111US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2111Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  54"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  54"
+  },
+  {
+     "STT":142
+    ,"MaVT":"Y2113 "
+    ,"TenVT":"Kẹp kính 180 độ giữa kính với kính"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":143
+    ,"MaVT":"Y2113US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2113Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  47"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  47"
+  },
+  {
+     "STT":144
+    ,"MaVT":"Y2114US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2114Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  4"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  4"
+  },
+  {
+     "STT":145
+    ,"MaVT":"Y2115US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2115Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  100"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  100"
+  },
+  {
+     "STT":146
+    ,"MaVT":"Y2121US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2121Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":147
+    ,"MaVT":"Y2122US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2122Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":148
+    ,"MaVT":"Y2124US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2124Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":149
+    ,"MaVT":"Y2125US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2125Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":150
+    ,"MaVT":"Y2126US26."
+    ,"TenVT":"Y - Phụ kiện - Shower Hinges - Y2126Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":151
+    ,"MaVT":"Y2541US26."
+    ,"TenVT":"Y - Phụ kiện - Glass Connectors - Y2541Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  30"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  30"
+  },
+  {
+     "STT":152
+    ,"MaVT":"Y2542US26."
+    ,"TenVT":"Y - Phụ kiện - Glass Connectors - Y2542Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":153
+    ,"MaVT":"Y2544US26."
+    ,"TenVT":"Y - Phụ kiện - Glass Connectors - Y2544Us26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  6"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  6"
+  },
+  {
+     "STT":154
+    ,"MaVT":"Y2810BUS32."
+    ,"TenVT":"Tay đẩy - Tubular Handle - Y2810Bus32"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  100"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  100"
+  },
+  {
+     "STT":155
+    ,"MaVT":"Y2850US32."
+    ,"TenVT":"Tay đẩy - Square Handles - Y2850Us32"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  96"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  96"
+  },
+  {
+     "STT":156
+    ,"MaVT":"Y2901BUS26."
+    ,"TenVT":"Y - Phụ kiện - Shower Accessories - Y2901Bus26"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  10"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":157
+    ,"MaVT":"Y45/SC."
+    ,"TenVT":"Y- Ruột khóa không Master key - 45MMhalfSN"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  779"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  779"
+  },
+  {
+     "STT":158
+    ,"MaVT":"Y45/SC-E"
+    ,"TenVT":"Y- Ruột khóa không Master key - 45MMhalfSN chìa điện tử"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":159
+    ,"MaVT":"Y70/CT."
+    ,"TenVT":"6 PIN CYLINDER AND THUMBTUN CYLLINDER YALE KEYWAY"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  0"
+    ,"K17":  0
+    ,"K19":  2
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":160
+    ,"MaVT":"Y70/CT-E"
+    ,"TenVT":"Y- Ruột khóa chìa điện tử Y70/CT-E"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  704"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  704"
+  },
+  {
+     "STT":161
+    ,"MaVT":"Y70/DC."
+    ,"TenVT":"6 PIN DOUBLE CYLINDER YALE KEYWAY 70MM"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  750"
+    ,"K17":  0
+    ,"K19":  3
+    ,"SLTon":"  753"
+  },
+  {
+     "STT":162
+    ,"MaVT":"Y70/DC-E"
+    ,"TenVT":"Y - Ruột khóa hai đầu chìa điện tử  (6 Pin double cylinder Yale dimple Keyway 70mmJ)        "
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  191"
+    ,"K17":  0
+    ,"K19":  5
+    ,"SLTon":"  196"
+  },
+  {
+     "STT":163
+    ,"MaVT":"Y70/PC."
+    ,"TenVT":"Y - Ruột Khóa - Y70/Pc - 70MMSNBK"
+    ,"DVT":"Cai"
+    ,"K13":  2
+    ,"K02":"  508"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  510"
+  },
+  {
+     "STT":164
+    ,"MaVT":"Y-BASKETBALL."
+    ,"TenVT":"BASKETBALL SHAPE PADLOCK Y-BASKETBALL"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  177"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  177"
+  },
+  {
+     "STT":165
+    ,"MaVT":"YBB-030"
+    ,"TenVT":"Y - Chốt khóa gài cửa - Yale Surface Fixed Barrel Bolt- YBB-030"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  28"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  28"
+  },
+  {
+     "STT":166
+    ,"MaVT":"YBC-001BR"
+    ,"TenVT":"Y - Chốt bật nhanh - YBC-001BR"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  355"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  355"
+  },
+  {
+     "STT":167
+    ,"MaVT":"YBS-010US32D."
+    ,"TenVT":"Y - Phụ kiện - Toilet Indicator - Ybs-010Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  94"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  94"
+  },
+  {
+     "STT":168
+    ,"MaVT":"YCH-030US32D."
+    ,"TenVT":"Y- \"V\" Double Robe Hook-Ych030 Usd32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  227"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  227"
+  },
+  {
+     "STT":169
+    ,"MaVT":"YCH-050"
+    ,"TenVT":"Y - Mốc treo - Yale Wall Stop Robe Hook and Bumber - YCH-050"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  50"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  50"
+  },
+  {
+     "STT":170
+    ,"MaVT":"YDC-3025L."
+    ,"TenVT":"Y - Bộ đóng cửa tự động - DOOR CLOSER - YDC-3025L"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  46"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  47"
+  },
+  {
+     "STT":171
+    ,"MaVT":"YDG-010"
+    ,"TenVT":"Y - Chốt an toàn - YDG-010"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  7"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  7"
+  },
+  {
+     "STT":172
+    ,"MaVT":"YDG-040US32D."
+    ,"TenVT":"Y - Phụ kiện - Door Bolts - Ydg-040Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  5"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  5"
+  },
+  {
+     "STT":173
+    ,"MaVT":"YDH-010"
+    ,"TenVT":"Y - Hít cửa YDH-010"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  30"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  30"
+  },
+  {
+     "STT":174
+    ,"MaVT":"YDL-010US32D."
+    ,"TenVT":"Y - Thân khóa - Sliding Doorhardware - Ydl-010Us"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  22"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  22"
+  },
+  {
+     "STT":175
+    ,"MaVT":"YDL-020"
+    ,"TenVT":"Y - Thân khóa YDL-020"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  11"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  11"
+  },
+  {
+     "STT":176
+    ,"MaVT":"YDM3109."
+    ,"TenVT":"Y - Khóa số - DIGITAL DOOR LOCK - YDM3109"
+    ,"DVT":"Cai"
+    ,"K13":  2
+    ,"K02":"  119"
+    ,"K17":  0
+    ,"K19":  6
+    ,"SLTon":"  127"
+  },
+  {
+     "STT":177
+    ,"MaVT":"YDM3109-GOLD"
+    ,"TenVT":"Y - Khóa số - DIGITAL DOOR LOCK - YDM3109-Gold"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  10"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  10"
+  },
+  {
+     "STT":178
+    ,"MaVT":"YDM3115"
+    ,"TenVT":"Y - Khóa điện tử - YDM3115"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  35"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  35"
+  },
+  {
+     "STT":179
+    ,"MaVT":"YDM3212"
+    ,"TenVT":"Y - Khóa số - DIGITAL DOOR LOCK - YDM3212"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  0"
+    ,"K17":  0
+    ,"K19":  1
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":180
+    ,"MaVT":"YDM4109."
+    ,"TenVT":"Y - Khóa số - Digital Door Lock - YDM4109"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  0"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":181
+    ,"MaVT":"YDM4109-GOLD"
+    ,"TenVT":"Y - Khóa điện tử - màu vàng - Digital Door Lock - YDM4109-Gold"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  9"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  9"
+  },
+  {
+     "STT":182
+    ,"MaVT":"YDS-010."
+    ,"TenVT":"Y - Chặn cửa hình bán nguyệt- HALF MOON FLOOR DOOR STOPS - YDS-010PVDB"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  5"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  5"
+  },
+  {
+     "STT":183
+    ,"MaVT":"YDS-010PVDB."
+    ,"TenVT":"Y - Chặn cửa - DOOR STOPS - YDS-010PVDB"
+    ,"DVT":"Cai"
+    ,"K13":  2
+    ,"K02":"  51"
+    ,"K17":  3
+    ,"K19":  0
+    ,"SLTon":"  56"
+  },
+  {
+     "STT":184
+    ,"MaVT":"YDS-010US32D."
+    ,"TenVT":"Y - Chặn cửa - DOOR STOPS - YDS-010US32D"
+    ,"DVT":"Cai"
+    ,"K13":  1
+    ,"K02":"  95"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  96"
+  },
+  {
+     "STT":185
+    ,"MaVT":"YDS-020US32D."
+    ,"TenVT":"Y - Chặn cửa - DOOR STOPS - YDS-020US32D"
+    ,"DVT":"Cai"
+    ,"K13":  2
+    ,"K02":"  208"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  210"
+  },
+  {
+     "STT":186
+    ,"MaVT":"YDS-040US32D."
+    ,"TenVT":"Y - Chặn cửa - Door Stops - YDS-040US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":187
+    ,"MaVT":"YDS-080US32D."
+    ,"TenVT":"YDS-080US32D - KDJ008"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":188
+    ,"MaVT":"YDS-090US32D"
+    ,"TenVT":"Y - Chặn cửa - DOOR STOPS - YDS-090US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  9"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  9"
+  },
+  {
+     "STT":189
+    ,"MaVT":"YEH-01BUS32D."
+    ,"TenVT":"Y -Tay nắm đẩy  - Entrance Handle - Yeh-01Bus32"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":190
+    ,"MaVT":"YEH-01C"
+    ,"TenVT":"Y - Khóa tay nắm đẩy - YEH-01C"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":191
+    ,"MaVT":"YEP-010."
+    ,"TenVT":"Y - Yale Euro, Profile Cylinder Escutcheon Ss304 YEP-010"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  27"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  27"
+  },
+  {
+     "STT":192
+    ,"MaVT":"YFB-011-12"
+    ,"TenVT":"Y- Chốt âm YFB-011-12"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  202"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  202"
+  },
+  {
+     "STT":193
+    ,"MaVT":"YFB-011US32D."
+    ,"TenVT":"Y - Phụ kiện cửa - Bolts - Yfb-011Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  278"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  278"
+  },
+  {
+     "STT":194
+    ,"MaVT":"YFB-020-12"
+    ,"TenVT":"Y - Chốt âm - YFB-020-12"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  252"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  252"
+  },
+  {
+     "STT":195
+    ,"MaVT":"YFB-020US32D."
+    ,"TenVT":"Y - Phụ kiện cửa - Bolts - Yfb-020Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  34"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  34"
+  },
+  {
+     "STT":196
+    ,"MaVT":"YFB-021US32D."
+    ,"TenVT":"Y - Phụ kiện cửa - Bolts - Yfb-021"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  247"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  247"
+  },
+  {
+     "STT":197
+    ,"MaVT":"YFB-030US32D."
+    ,"TenVT":"Y - Phụ kiện cửa - Bolts - Yfb-030Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  25"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  25"
+  },
+  {
+     "STT":198
+    ,"MaVT":"YFB-031US32D."
+    ,"TenVT":"Y - Phụ kiện cửa- Bolts - Yfb-031Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  101"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  101"
+  },
+  {
+     "STT":199
+    ,"MaVT":"YFB-040US32D."
+    ,"TenVT":"Y - Phụ Kiện Cửa-BOLTS  FL FER SSS YFB-040US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  69"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  69"
+  },
+  {
+     "STT":200
+    ,"MaVT":"YFP-020US32D."
+    ,"TenVT":"Y - Tay nắm âm - Flush Pull - Yfp-020Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":201
+    ,"MaVT":"YFP-040US32D."
+    ,"TenVT":"Y - Tay nắm âm - Flush Pull - Yfp-040Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  11"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  11"
+  },
+  {
+     "STT":202
+    ,"MaVT":"YFP-060"
+    ,"TenVT":"Y - Tay nắm YFP-060"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  11"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  11"
+  },
+  {
+     "STT":203
+    ,"MaVT":"YIC1003ASB."
+    ,"TenVT":"Y - Bộ đóng cửa động - DOOR CLOSER - IC1003ASB"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":204
+    ,"MaVT":"YIC5124HO"
+    ,"TenVT":"Tay đẩy hơi âm - YIC5124HO"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  3"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  3"
+  },
+  {
+     "STT":205
+    ,"MaVT":"YL07US32D"
+    ,"TenVT":"Y - Yalis Khóa nắm tròn YL07US32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":" 2 729"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":" 2 729"
+  },
+  {
+     "STT":206
+    ,"MaVT":"YLC/45SS/DC70SN"
+    ,"TenVT":"Y - Thân khóa- Mortiselock - YLC/45SS/DC70SN"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  2"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  2"
+  },
+  {
+     "STT":207
+    ,"MaVT":"YML01/4585"
+    ,"TenVT":"Y - Thân khóa Mortise Lockcase - YML01/4585"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  360"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  360"
+  },
+  {
+     "STT":208
+    ,"MaVT":"YML01/5085"
+    ,"TenVT":"Y - Thân khóa Mortise Lockcase backset 50mm YML01/5085"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  99"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  99"
+  },
+  {
+     "STT":209
+    ,"MaVT":"YML01/5572"
+    ,"TenVT":"Y - Thân khóa Mortise Lockcase - YML01/5572"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  43"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  43"
+  },
+  {
+     "STT":210
+    ,"MaVT":"YML01/6085"
+    ,"TenVT":"Y - Thân khóa Mortise Lockcase - YML01/6085"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  4"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  4"
+  },
+  {
+     "STT":211
+    ,"MaVT":"YML06/5572SSS"
+    ,"TenVT":"Y - Thân khóa Mortise Dead Lock - YML01/6085"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  290"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  290"
+  },
+  {
+     "STT":212
+    ,"MaVT":"YPE ACC010"
+    ,"TenVT":"Y - Tay nắm gạt cửa thoát hiểm YPE ACC010"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  48"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  48"
+  },
+  {
+     "STT":213
+    ,"MaVT":"YPL-010-LATCH"
+    ,"TenVT":"Y - Tay nắm kéo có Latch - YPL-010-Latch "
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  207"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  207"
+  },
+  {
+     "STT":214
+    ,"MaVT":"YPL-010US32D."
+    ,"TenVT":"Y - Phụ kiện - Flush Ring Pull - Ypl-010Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  215"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  215"
+  },
+  {
+     "STT":215
+    ,"MaVT":"YPO-020US32D."
+    ,"TenVT":"Y - Phụ kiện - Pull On Plates - Ypo-020Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  543"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  543"
+  },
+  {
+     "STT":216
+    ,"MaVT":"YPP-020US32D."
+    ,"TenVT":"Y - Phụ kiện - Push Plates - Ypp-020Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  551"
+    ,"K17":  0
+    ,"K19":  1
+    ,"SLTon":"  552"
+  },
+  {
+     "STT":217
+    ,"MaVT":"YRB-010US32D"
+    ,"TenVT":"Y - YRB-010US32D Chốt bật nhanh"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  290"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  290"
+  },
+  {
+     "STT":218
+    ,"MaVT":"YSD-040"
+    ,"TenVT":"Y - Tay nắm âm YSD-040"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  11"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  11"
+  },
+  {
+     "STT":219
+    ,"MaVT":"YSL-010US32D."
+    ,"TenVT":"Y - Tay gạt - Solid Handle - Ysl-010Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  102"
+    ,"K17":  1
+    ,"K19":  0
+    ,"SLTon":"  103"
+  },
+  {
+     "STT":220
+    ,"MaVT":"YSL-020US32D."
+    ,"TenVT":"Y - Tay gạt - Solid Handle - Ysl-020Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  2
+    ,"K02":"  204"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  206"
+  },
+  {
+     "STT":221
+    ,"MaVT":"YSL-040US32D."
+    ,"TenVT":"Y - Tay gạt - Solid Handle - Ysl-040Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  1"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  1"
+  },
+  {
+     "STT":222
+    ,"MaVT":"YSL-050US32D."
+    ,"TenVT":"Y - Tay gạt - Solid Handle - Ysl-050Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  39"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  39"
+  },
+  {
+     "STT":223
+    ,"MaVT":"YTL-010US32D."
+    ,"TenVT":"Y - Tay gạt - Tubular Handle - Ytl-010Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  141"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  141"
+  },
+  {
+     "STT":224
+    ,"MaVT":"YTL-020US32D."
+    ,"TenVT":"Y - Tay gạt - Tubular Handle - Ytl-020Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  128"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  128"
+  },
+  {
+     "STT":225
+    ,"MaVT":"YTL-060US32D."
+    ,"TenVT":"Y - Tay gạt - Tubular Handle - Ytl-060Us32D"
+    ,"DVT":"Cai"
+    ,"K13":  0
+    ,"K02":"  81"
+    ,"K17":  0
+    ,"K19":  0
+    ,"SLTon":"  81"
+  }]
