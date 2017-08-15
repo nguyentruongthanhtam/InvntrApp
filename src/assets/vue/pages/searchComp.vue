@@ -25,10 +25,10 @@
             
             <f7-list class="searchbar-found" id="Phillips-list">
                 <f7-list-item v-for="i in items" 
-                                :title="i.MaVT + ' ' +i.TenVT"
+                                :title="i.MaVT + ' - ' +i.TenVT + ' - ' + i.HD"
                                 :data= "i"              
                                 :key= "i.MaVT"
-                @click="goToItem(i.MaVT)">
+                @click="goToItem(i.ID)">
                 </f7-list-item>
             </f7-list>
         </f7-block>
@@ -42,7 +42,7 @@
     name: 'search',
     data: function () {
       return {
-        items: [{}], 
+        items: [], 
       }
     },
     methods: {
@@ -67,23 +67,29 @@
                 let vm = this
 				let db = window.sqlitePlugin.openDatabase({ name: 'my.db', location: 'default' }, function (db) {
 				db.transaction(function (tx) {
-					let query = "SELECT * FROM PHILLIPS"
+					let query = "SELECT * FROM PHILLIPS WHERE MaVT NOT NULL"
 						tx.executeSql(query,null,(tx,resultSet)=>{
 							for(var x = 0; x < resultSet.rows.length; x++) {
-								console.log("MA VT" + resultSet.rows.item(x).MaVT +
+								console.log("MA VT: " + resultSet.rows.item(x).MaVT +
 									        ", TEN VT: " + resultSet.rows.item(x).TenVT+
 									        ", K02: " + resultSet.rows.item(x).K02+
 									        ", IMG URI: " + resultSet.rows.item(x).IMG)
                                 let resObject = {}
+                                resObject['ID'] =  resultSet.rows.item(x).ID
                                 resObject['MaVT'] =  resultSet.rows.item(x).MaVT
                                 resObject['TenVT'] =  resultSet.rows.item(x).TenVT
                                 resObject['DVT'] =  resultSet.rows.item(x).DVT
+                                resObject['HD'] =  resultSet.rows.item(x).HD
                                 resObject['K02'] =  resultSet.rows.item(x).K02
                                 resObject['K13'] =  resultSet.rows.item(x).K13
                                 resObject['K17'] =  resultSet.rows.item(x).K17
                                 resObject['K19'] =  resultSet.rows.item(x).K19
                                 resObject['IMG'] =  resultSet.rows.item(x).IMG
-                                vm.items.push(resObject)
+                                if(resultSet.rows.item(x).ID!=0)
+                                {
+                                    vm.items.push(resObject)
+                                    
+                                }
                                 // vm.isLoading = false
 							}
                             console.log("DB loaded : " + resultSet.rows.length + " records" )

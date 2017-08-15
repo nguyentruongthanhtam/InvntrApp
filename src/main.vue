@@ -125,7 +125,7 @@
 				// WORKING LOAD ENTRIES FROM DB
 				let db = window.sqlitePlugin.openDatabase({ name: 'my.db', location: 'default' }, function (db) {
 				db.transaction(function (tx) {
-					let query = "SELECT * FROM PHILLIPS"
+					let query = "SELECT * FROM PHILLIPS WHERE MaVT NOT NULL"
 						tx.executeSql(query,null,(tx,resultSet)=>{
 							for(var x = 0; x < resultSet.rows.length; x++) {
 								console.log("MA VT: " + resultSet.rows.item(x).MaVT +
@@ -149,7 +149,7 @@
 					db.transaction(function (tx) {
 						tx.executeSql('DROP TABLE IF EXISTS PHILLIPS')
 						console.log("TABLE PHILLIPS DROPPED")
-			
+						window.f7.alert("Successfully Delete Table", "DROP TABLE?")
 					}, function (error) {
 						console.log('transaction error: ' + error.message)
 					}, function () {
@@ -182,9 +182,25 @@
 			let vm = this 
 			document.addEventListener('deviceready', function() {
 				let db = window.sqlitePlugin.openDatabase({ name: 'my.db', location: 'default' }, function (db) {
+					let query = `
+						CREATE TABLE IF NOT EXISTS PHILLIPS 
+						(	ID INTEGER PRIMARY KEY AUTOINCREMENT,
+							MaVT CHAR(20) NOT NULL, 
+							TenVT CHAR(30) NOT NULL, 
+							DVT CHAR(20) NOT NULL,
+							HD CHAR(20), 
+							K02 INTEGER, 
+							K13 INTEGER, 
+							K17 INTEGER, 
+							K19 INTEGER, 
+							IMG TEXT,
+							EXTRA TEXT
+						)
+					`
 					db.transaction(function (tx) {
+
 						// tx.executeSql('DROP TABLE IF EXISTS PHILLIPS')
-						tx.executeSql('CREATE TABLE IF NOT EXISTS PHILLIPS (MaVT, TenVT, DVT, K02, K13, K17, K19, IMG)')
+						tx.executeSql(query)
 					}, function (error) {
 						console.log('transaction error: ' + error.message)
 					}, function () {

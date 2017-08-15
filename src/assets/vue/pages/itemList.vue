@@ -10,7 +10,7 @@
                     <div class="data-table-title">PHILLIPS</div>
                     <!-- Table actions -->
                     <div class="data-table-actions">
-                    <a class="link icon-only"><i class="material-icons">sort</i></a>
+                    <a class="link icon-only" @click="loadDB"><i class="material-icons">refresh</i></a>
                     <a class="link icon-only"><i class="material-icons">more_vert</i></a>
                     </div>
                 </div>
@@ -56,8 +56,8 @@ export default{
     data(){
         return{
             title: "Item List View",
-            items: [{}],
-            item:{},
+            items: [],
+            item: {},
             isLoading: true
         }
     },
@@ -106,31 +106,39 @@ export default{
         setItem(obj)
         {
           this.item = obj
-          this.$router.load({url:'/item/'+"edit/"+this.item.MaVT})  // open Item page with params of item.MaVT
+          this.$router.load({url:'/item/'+"edit/"+this.item.ID})  // open Item page with params of item.MaVT
         },
         loadDB()
         {
             // WORKING LOAD ENTRIES FROM DB
+
             let vm = this
+            vm.items = []
             let db = window.sqlitePlugin.openDatabase({ name: 'my.db', location: 'default' }, function (db) {
             db.transaction(function (tx) {
-                let query = "SELECT * FROM PHILLIPS"
+                let query = "SELECT * FROM PHILLIPS WHERE MaVT IS NOT NULL"
                     tx.executeSql(query,null,(tx,resultSet)=>{
                         for(var x = 0; x < resultSet.rows.length; x++) {
-                            console.log("MA VT" + resultSet.rows.item(x).MaVT +
+                            console.log("ID" + resultSet.rows.item(x).ID +
+                                "MA VT" + resultSet.rows.item(x).MaVT +
                                 ", TEN VT: " + resultSet.rows.item(x).TenVT+
                                 ", K02: " + resultSet.rows.item(x).K02+
                                 ", IMG URI: " + resultSet.rows.item(x).IMG)
                             let resObject = {}
+                            resObject['ID'] =  resultSet.rows.item(x).ID
                             resObject['MaVT'] =  resultSet.rows.item(x).MaVT
                             resObject['TenVT'] =  resultSet.rows.item(x).TenVT
                             resObject['DVT'] =  resultSet.rows.item(x).DVT
+                            resObject['HD'] =  resultSet.rows.item(x).HD
                             resObject['K02'] =  resultSet.rows.item(x).K02
                             resObject['K13'] =  resultSet.rows.item(x).K13
                             resObject['K17'] =  resultSet.rows.item(x).K17
                             resObject['K19'] =  resultSet.rows.item(x).K19
                             resObject['IMG'] =  resultSet.rows.item(x).IMG
-                            vm.items.push(resObject)
+                            if(resultSet.rows.item(x).ID!=0)
+                                {
+                                    vm.items.push(resObject)
+                                }
                             vm.isLoading = false
                         }
                         console.log("DB loaded : " + resultSet.rows.length + " records" )

@@ -20,6 +20,11 @@
 				<f7-input type="text" placeholder="DVT" v-model="dvt"></f7-input>
 			</f7-list-item>
 			<f7-list-item>
+				<f7-label floating>Hinh Dang</f7-label>
+				<f7-input type="text" placeholder="Hinh Dang" v-model="hd"></f7-input>
+			</f7-list-item>
+			
+			<f7-list-item>
 				<f7-label floating>K02</f7-label>
 				<f7-input type="number" placeholder="K02" v-model="k02"></f7-input>
 			</f7-list-item>
@@ -75,6 +80,7 @@ import photoComp from './photoComp'
 				k13: null,
 				k17: null,
 				k19: null,
+				hd: "",
 				table: "PHILLIPS",
 				imgURI: "",
 				
@@ -97,14 +103,16 @@ import photoComp from './photoComp'
 				window.f7.confirm("Save this record ?", "Save", function(){
 				let db = window.sqlitePlugin.openDatabase({ name: 'my.db', location: 'default' }, function (db,tableName) {
 				db.transaction(function (tx,tableName) {
-					let query = "INSERT INTO PHILLIPS (MaVT,TenVT,DVT,K02,K13,K17,K19,IMG) VALUES (?,?,?,?,?,?,?,?)"
+					let query = "INSERT INTO PHILLIPS (MaVT,TenVT,DVT,HD,K02,K13,K17,K19,IMG) VALUES (?,?,?,?,?,?,?,?,?)"
 						tx.executeSql(query,[vm.mavt,
 											vm.tenvt,
 											vm.dvt,
-											vm.k02,
-											vm.k13,
-											vm.k17,
-											vm.k19,
+											vm.hd,
+											// added Numbner convert to db
+											Number(vm.k02),
+											Number(vm.k13),
+											Number(vm.k17),
+											Number(vm.k19),
 											vm.imgURI],
 							function(tx,res){
 								console.log("insertId: " + res.insertId )
